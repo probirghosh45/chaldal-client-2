@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "strId":"marks",
+        "name":"Marks Full Cream Milk Powder Foil",
+        "quantity":"1 Liter",
+        "price":"234",
+        "icon": "https://i.ibb.co/KKsm68m/image-32.png"
+    },
+    {
+        "id":2,
+        "strId":"moushum",
+        "name":"Moushum Bay Leaves- 200gm",
+        "quantity":"200 gm",
+        "price":"134",
+        "icon": "https://i.ibb.co/7jc878g/image-33.png"
+
+    },
+    {
+        "id":3,
+        "strId":"onion",
+        "name":"Onion Local - 1 Kg",
+        "quantity":"1 kg",
+        "price":"434",
+        "icon": "https://i.ibb.co/pZLsLhs/image-34.png"
+    },
+    {
+        "id":4,
+        "strId":"rice",
+        "name":"Rashid Minicate Rice - 50 Kg",
+        "quantity":"50 kg",
+        "price":"342",
+        "icon": "https://i.ibb.co/84j9C8b/image-35.png"
+    },    
+    {
+        "id":5,
+        "strId":"lpg",
+        "name":"Omera LPG Refill 12 KGl",
+        "quantity":"12 kG",
+        "price":"342",
+        "icon": "https://i.ibb.co/Fhkfdyk/image-36.png"
+    },
+    {
+        "id":6,
+        "strId":"twist",
+        "name":"Bombay Sweets Mr.Twist – 25 gm",
+        "quantity":"25 gm",
+        "price":"132",
+        "icon": "https://i.ibb.co/SRLwQtf/image-37.png"
+
+    },
+    {
+        "id":7,
+        "strId":"lifebuoy",
+        "name":"Lifeboy Soap Bar Tota - 100 gm",
+        "quantity":"100 gm",
+        "price":"334",
+        "icon": "https://i.ibb.co/KmZTysM/image-38.png"
+    },
+    {
+        "id":8,
+        "strId":"chanachur",
+        "name":"Ruchi BBQ Chanachur - 350 gm",
+        "quantity":"350 gm",
+        "price":"342",
+        "icon": "https://i.ibb.co/0JJPttw/image-39.png"
+    },    
+    {
+        "id":9,
+        "strId":"oil",
+        "name":"Parachute Coconut Oil - 200ml",
+        "quantity":"200 ml",
+        "price":"132",
+        "icon": "https://i.ibb.co/2YGxcwx/image-40.png"
+    }
+]
